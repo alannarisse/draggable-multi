@@ -1,0 +1,29 @@
+html {
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+body {
+	margin: auto;
+	background-color: #ccc;
+	}
+#lincoln,
+#gathering, #march {
+	margin: auto;
+	cursor: pointer;
+	}
+#lincoln {
+    position: absolute;
+    top:100px;
+    left: 100px;
+}    
+#gathering {
+    position: absolute;
+    top:100px;
+    left: 600px;
+} 
+#march {
+    position: absolute;
+    top: 600px;
+    left: 100px;
+} 
